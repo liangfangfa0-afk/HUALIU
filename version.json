@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "1.0.3.6",
+  "versionCode": 37,
+  "versionName": "1.0.3.7",
   "downloadUrl": "https://aka.doubaocdn.com/s/Tqy0569tQ5",
-  "changelog": "【v1.0.3.6 更新日志】\n\n• 修复 OTA 下载后安装到旧版本包问题\n• 下载前自动清理旧安装包\n• 安装时使用下载返回的真实文件路径\n• 修复更新对话框按钮不显示问题\n• 去除开机自动检查更新，改为手动检查"
+  "changelog": "【v1.0.3.7 更新日志】\n\n• OTA 在线更新功能验证\n• 系统稳定性提升\n• 性能优化"
 }
