@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "1.0.3.3",
+  "versionCode": 34,
+  "versionName": "1.0.3.4",
   "downloadUrl": "https://aka.doubaocdn.com/s/Y8JxE5oYn1",
-  "changelog": "【v1.0.3.3 更新日志】\n\n• 修复版本更新点击无反应问题\n• 新增检查更新状态提示\n• 优化 OTA 在线更新体验"
+  "changelog": "【v1.0.3.4 更新日志】\n\n• OTA 在线更新功能验证\n• 版本更新入口优化\n• 系统稳定性提升"
 }
