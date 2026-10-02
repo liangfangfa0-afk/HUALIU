@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "1.0.4.3",
-  "downloadUrl": "https://aka.doubaocdn.com/s/Nlrijbz6rG",
-  "changelog": "【v1.0.4.3 更新日志】\n\n• 彻底修复 OTA 下载安装旧版本包问题\n• 下载引擎从 DownloadManager 更换为 OkHttp 直连下载\n• 每次下载使用唯一文件名，杜绝任何缓存\n• 下载后验证文件大小，异常自动拦截\n• 安装直接读取真实下载文件，确保版本一致"
+  "versionCode": 44,
+  "versionName": "1.0.4.4",
+  "downloadUrl": "https://aka.doubaocdn.com/s/hTZnGuT3ab",
+  "changelog": "【v1.0.4.4 更新日志】\n\n• 云端推送更新提示，弹窗显示完整更新日志\n• 应用内从云端直接获取更新包，OkHttp 直连下载\n• 每次下载唯一文件名，杜绝缓存，确保安装最新版本\n• 更新完成后应用内同步当前版本更新日志\n• 下载后自动校验文件完整性，异常拦截\n• 系统稳定性与流畅度提升"
 }
