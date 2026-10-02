@@ -1,6 +1,6 @@
 {
-  "versionCode": 51,
-  "versionName": "1.0.5.1",
-  "downloadUrl": "https://aka.doubaocdn.com/s/f9QxJSpSI8",
-  "changelog": "【v1.0.5.1 更新日志】\n\n• 版本检查切换至 Fastly CDN 节点，缓存刷新更快\n• 解决 jsDelivr 主域名缓存不刷新问题\n• 云端推送更新即时生效\n• 系统稳定性优化"
+  "versionCode": 52,
+  "versionName": "1.0.5.2",
+  "downloadUrl": "https://aka.doubaocdn.com/s/JgS1AIXS4P",
+  "changelog": "【v1.0.5.2 更新日志】\n\n• 版本检查改用 GitHub API 直连，彻底告别 CDN 缓存问题\n• 每次检查更新永远返回云端最新版本，无需等待缓存刷新\n• 国内可通过代理访问，稳定可靠\n• 系统稳定性优化"
 }
