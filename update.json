@@ -1,6 +1,6 @@
 {
-  "versionCode": 60,
-  "versionName": "1.0.6.0",
-  "downloadUrl": "https://aka.doubaocdn.com/s/rXaX47Xc3q",
-  "changelog": "【v1.0.6.0 更新日志】\n\n• 产品页参数全面升级\n• 屏幕：6.95英寸，3500×2000分辨率，720PPI，3500尼特峰值亮度\n• 影像：2.5亿主摄+8900万超广角+3.5亿长焦+1亿潜望长焦，哈苏15倍光学变焦\n• 视频：4K 240fps，15倍视频光学变焦\n• 芯片：HUALIU紫焰N1，12核4.5GHz\n• 电池：12000mAh，240W闪充+80W无线\n• 预支持Wi-Fi 8，TUF-O第三代3D人脸识别"
+  "versionCode": 61,
+  "versionName": "1.0.6.1",
+  "downloadUrl": "https://aka.doubaocdn.com/s/Xy52t5yV2Q",
+  "changelog": "【v1.0.6.1 更新日志】\n\n• 产品页新增真机展示图\n• 颜色改为曜石黑、流沙金两款\n• 点击颜色圆点可切换对应真机背面图\n• 系统稳定性优化"
 }
