@@ -1,6 +1,6 @@
 {
-  "versionCode": 61,
-  "versionName": "1.0.6.1",
-  "downloadUrl": "https://aka.doubaocdn.com/s/Xy52t5yV2Q",
-  "changelog": "【v1.0.6.1 更新日志】\n\n• 产品页新增真机展示图\n• 颜色改为曜石黑、流沙金两款\n• 点击颜色圆点可切换对应真机背面图\n• 系统稳定性优化"
+  "versionCode": 62,
+  "versionName": "1.0.6.2",
+  "downloadUrl": "https://aka.doubaocdn.com/s/gWvtfxmOJP",
+  "changelog": "【v1.0.6.2 更新日志】\n\n• 修复产品页滑动时横向位移问题\n• 入网型号改为 HALM410\n• 系统稳定性优化"
 }
