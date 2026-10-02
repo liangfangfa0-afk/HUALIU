@@ -1,6 +1,6 @@
 {
-  "versionCode": 55,
-  "versionName": "1.0.5.5",
-  "downloadUrl": "https://aka.doubaocdn.com/s/GiKofY13nT",
-  "changelog": "【v1.0.5.5 更新日志】\n\n• 底部导航「系统」更名为「产品」\n• 新增产品页面，展示 HUALIU LTEN 400 哈苏 15 倍光学变焦\n• 首页新增「首页/系统」内容切换悬浮按钮，可在首页内切换浏览主官网和系统官网\n• 系统官网内容整合进首页，无需单独 Tab\n• 系统稳定性优化"
+  "versionCode": 56,
+  "versionName": "1.0.5.6",
+  "downloadUrl": "https://aka.doubaocdn.com/s/e1zrnxr0tx",
+  "changelog": "【v1.0.5.6 更新日志】\n\n• 产品页改用真实 LTEN 400 产品图展示\n• 首页「首页/系统」切换按钮位置上移，避免遮挡内容\n• 首页和系统页增加底部留白，内容不再被切换按钮遮挡\n• 系统稳定性优化"
 }
