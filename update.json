@@ -1,6 +1,6 @@
 {
-  "versionCode": 57,
-  "versionName": "1.0.5.7",
-  "downloadUrl": "https://aka.doubaocdn.com/s/10mxDTHSTH",
-  "changelog": "【v1.0.5.7 更新日志】\n\n• 产品页改用真实产品图展示，移除 CSS 绘制元素\n• 首页「首页/系统」切换按钮恢复原位置\n• 系统页「全部亮点」按钮上移，不再被切换按钮遮挡\n• 系统稳定性优化"
+  "versionCode": 58,
+  "versionName": "1.0.5.8",
+  "downloadUrl": "https://aka.doubaocdn.com/s/Hl7OqdOa0C",
+  "changelog": "【v1.0.5.8 更新日志】\n\n• 产品页全新改版：复刻旗舰机参数规格页样式\n• 包含尺寸与重量、存储、显示、摄像头、视频拍摄、芯片、电池、生物识别、传感器、蜂窝网络、数据功能、操作系统、定位功能、包装清单等完整参数\n• 哈苏 15 倍无损光学变焦参数已标注\n• 系统稳定性优化"
 }
