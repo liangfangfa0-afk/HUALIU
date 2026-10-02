@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "1.0.4.5",
-  "downloadUrl": "https://aka.doubaocdn.com/s/TPGaPycJFJ",
-  "changelog": "【v1.0.4.5 更新日志】\n\n• 日志更新页面同步最新版本记录\n• 应用内更新日志与云端版本保持一致\n• 每次版本更新后自动同步日志页面\n• 系统稳定性优化"
+  "versionCode": 46,
+  "versionName": "1.0.4.6",
+  "downloadUrl": "https://aka.doubaocdn.com/s/CK1HVFCtYX",
+  "changelog": "【v1.0.4.6 更新日志】\n\n• 版本检查切换回 GitHub Raw 直连，加时间戳杜绝缓存\n• 解决 jsDelivr CDN 缓存导致检测不到更新问题\n• 日志更新页面同步最新版本记录\n• 系统稳定性优化"
 }
