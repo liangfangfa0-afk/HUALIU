@@ -1,6 +1,6 @@
 {
-  "versionCode": 56,
-  "versionName": "1.0.5.6",
-  "downloadUrl": "https://aka.doubaocdn.com/s/e1zrnxr0tx",
-  "changelog": "【v1.0.5.6 更新日志】\n\n• 产品页改用真实 LTEN 400 产品图展示\n• 首页「首页/系统」切换按钮位置上移，避免遮挡内容\n• 首页和系统页增加底部留白，内容不再被切换按钮遮挡\n• 系统稳定性优化"
+  "versionCode": 57,
+  "versionName": "1.0.5.7",
+  "downloadUrl": "https://aka.doubaocdn.com/s/10mxDTHSTH",
+  "changelog": "【v1.0.5.7 更新日志】\n\n• 产品页改用真实产品图展示，移除 CSS 绘制元素\n• 首页「首页/系统」切换按钮恢复原位置\n• 系统页「全部亮点」按钮上移，不再被切换按钮遮挡\n• 系统稳定性优化"
 }
