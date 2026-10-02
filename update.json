@@ -1,6 +1,6 @@
 {
-  "versionCode": 50,
-  "versionName": "1.0.5.0",
-  "downloadUrl": "https://aka.doubaocdn.com/s/Rfw4mDgcL1",
-  "changelog": "【v1.0.5.0 更新日志】\n\n• 版本号里程碑升级\n• OTA 云端推送体系成熟稳定\n• 系统稳定性与流畅度优化"
+  "versionCode": 51,
+  "versionName": "1.0.5.1",
+  "downloadUrl": "https://aka.doubaocdn.com/s/f9QxJSpSI8",
+  "changelog": "【v1.0.5.1 更新日志】\n\n• 版本检查切换至 Fastly CDN 节点，缓存刷新更快\n• 解决 jsDelivr 主域名缓存不刷新问题\n• 云端推送更新即时生效\n• 系统稳定性优化"
 }
