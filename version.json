@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "1.0.4.2",
-  "downloadUrl": "https://aka.doubaocdn.com/s/rMIUX9uQli",
-  "changelog": "【v1.0.4.2 更新日志】\n\n• 登录系统全面升级：用户名+密码登录\n• 新增注册功能，支持设置密码和安全问题\n• 新增二级验证：登录需回答安全问题\n• 密码采用 SHA-256 加盐哈希存储，安全可靠\n• 手机号登录入口保留，点击提示正在维护中\n• 所有账号数据仅存于本地手机"
+  "versionCode": 43,
+  "versionName": "1.0.4.3",
+  "downloadUrl": "https://aka.doubaocdn.com/s/Nlrijbz6rG",
+  "changelog": "【v1.0.4.3 更新日志】\n\n• 彻底修复 OTA 下载安装旧版本包问题\n• 下载引擎从 DownloadManager 更换为 OkHttp 直连下载\n• 每次下载使用唯一文件名，杜绝任何缓存\n• 下载后验证文件大小，异常自动拦截\n• 安装直接读取真实下载文件，确保版本一致"
 }
