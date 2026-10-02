@@ -1,0 +1,6 @@
+{
+  "versionCode": 49,
+  "versionName": "1.0.4.9",
+  "downloadUrl": "https://aka.doubaocdn.com/s/2s1MVwiEfD",
+  "changelog": "【v1.0.4.9 更新日志】\n\n• 版本检查使用全新 update.json 配置文件，彻底解决 CDN 缓存问题\n• jsDelivr CDN 国内直连，无需代理\n• OkHttp 直连下载更新包，每次唯一文件名\n• 系统稳定性与流畅度优化"
+}
