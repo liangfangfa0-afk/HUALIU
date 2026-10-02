@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "1.0.3.9",
-  "downloadUrl": "https://aka.doubaocdn.com/s/wpAuc7UVww",
-  "changelog": "【v1.0.3.9 更新日志】\n\n• 修复首页发布会预约链接在 APP 内打开空白问题\n• 预约链接改为外部浏览器打开\n• 版本检查缓存优化\n• 系统稳定性提升"
+  "versionCode": 40,
+  "versionName": "1.0.4.0",
+  "downloadUrl": "https://aka.doubaocdn.com/s/GXI8UW75A3",
+  "changelog": "【v1.0.4.0 更新日志】\n\n• 版本检查切换至 jsDelivr CDN，国内访问更稳定\n• 修复版本检查缓存导致检测不到更新问题\n• 检查更新时显示当前版本和云端版本号\n• 修复首页发布会链接空白问题\n• 系统稳定性提升"
 }
