@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "1.0.4.4",
-  "downloadUrl": "https://aka.doubaocdn.com/s/hTZnGuT3ab",
-  "changelog": "【v1.0.4.4 更新日志】\n\n• 云端推送更新提示，弹窗显示完整更新日志\n• 应用内从云端直接获取更新包，OkHttp 直连下载\n• 每次下载唯一文件名，杜绝缓存，确保安装最新版本\n• 更新完成后应用内同步当前版本更新日志\n• 下载后自动校验文件完整性，异常拦截\n• 系统稳定性与流畅度提升"
+  "versionCode": 45,
+  "versionName": "1.0.4.5",
+  "downloadUrl": "https://aka.doubaocdn.com/s/TPGaPycJFJ",
+  "changelog": "【v1.0.4.5 更新日志】\n\n• 日志更新页面同步最新版本记录\n• 应用内更新日志与云端版本保持一致\n• 每次版本更新后自动同步日志页面\n• 系统稳定性优化"
 }
