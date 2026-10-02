@@ -1,6 +1,6 @@
 {
   "versionCode": 34,
   "versionName": "1.0.3.4",
-  "downloadUrl": "https://aka.doubaocdn.com/s/Y8JxE5oYn1",
-  "changelog": "【v1.0.3.4 更新日志】\n\n• OTA 在线更新功能验证\n• 版本更新入口优化\n• 系统稳定性提升"
+  "downloadUrl": "https://aka.doubaocdn.com/s/CpVoRThzlw",
+  "changelog": "【v1.0.3.4 更新日志】\n\n• 去除开机自动检查更新，改为手动检查\n• 修复 OTA 下载后版本不匹配无法安装问题\n• 设置页面版本更新功能优化\n• 系统稳定性提升"
 }
