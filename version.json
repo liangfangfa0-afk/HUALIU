@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "1.0.3.1",
-  "downloadUrl": "https://aka.doubaocdn.com/s/aO8h2uzKf1",
-  "changelog": "【v1.0.3.1 更新日志】\n\n• 我的页面新增设置入口\n• 设置页面新增版本更新，点击直接检查云端更新\n• 关于应用移入设置页面\n• OTA 在线更新对接 GitHub 云端，后续版本直接在线升级"
+  "versionCode": 33,
+  "versionName": "1.0.3.3",
+  "downloadUrl": "https://aka.doubaocdn.com/s/Y8JxE5oYn1",
+  "changelog": "【v1.0.3.3 更新日志】\n\n• 修复版本更新点击无反应问题\n• 新增检查更新状态提示\n• 优化 OTA 在线更新体验"
 }
