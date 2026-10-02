@@ -1,6 +1,6 @@
 {
-  "versionCode": 47,
-  "versionName": "1.0.4.7",
-  "downloadUrl": "https://aka.doubaocdn.com/s/dy5sb4uXzT",
-  "changelog": "【v1.0.4.7 更新日志】\n\n• 版本检查使用 GitHub Raw 直连，加时间戳杜绝缓存\n• 云端推送更新即时生效，无需等待缓存刷新\n• 系统稳定性与流畅度优化"
+  "versionCode": 48,
+  "versionName": "1.0.4.8",
+  "downloadUrl": "https://aka.doubaocdn.com/s/IvlUinqgsP",
+  "changelog": "【v1.0.4.8 更新日志】\n\n• 版本检查切换回 jsDelivr CDN，国内直连无需代理\n• 修复 GitHub Raw 在无代理环境下检查更新失败问题\n• 云端缓存清理机制优化\n• 系统稳定性提升"
 }
