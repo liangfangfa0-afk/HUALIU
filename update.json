@@ -1,6 +1,6 @@
 {
-  "versionCode": 63,
-  "versionName": "1.0.6.3",
-  "downloadUrl": "https://aka.doubaocdn.com/s/tZC1UexBv5",
-  "changelog": "【v1.0.6.3 更新日志】\n• 移除注册时的安全问题选择\n• 移除登录时的二级验证\n• 注册流程简化为用户名+密码即可\n• 登录流程简化为用户名+密码直接登录\n• 优化整体稳定性"
+  "versionCode": 64,
+  "versionName": "1.0.6.4",
+  "downloadUrl": "https://aka.doubaocdn.com/s/cHLLNzgDFs",
+  "changelog": "【v1.0.6.4 更新日志】\n• 公告改为国庆祝福，去除发布会相关内容\n• 直播入口改为直播已结束，去除跳转链接\n• 修复设置页面版本号显示不同步问题\n• 移除注册时的安全问题选择\n• 移除登录时的二级验证"
 }
