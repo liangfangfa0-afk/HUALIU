@@ -1,6 +1,6 @@
 {
-  "versionCode": 62,
-  "versionName": "1.0.6.2",
-  "downloadUrl": "https://aka.doubaocdn.com/s/gWvtfxmOJP",
-  "changelog": "【v1.0.6.2 更新日志】\n\n• 修复产品页滑动时横向位移问题\n• 入网型号改为 HALM410\n• 系统稳定性优化"
+  "versionCode": 63,
+  "versionName": "1.0.6.3",
+  "downloadUrl": "https://aka.doubaocdn.com/s/tZC1UexBv5",
+  "changelog": "【v1.0.6.3 更新日志】\n• 移除注册时的安全问题选择\n• 移除登录时的二级验证\n• 注册流程简化为用户名+密码即可\n• 登录流程简化为用户名+密码直接登录\n• 优化整体稳定性"
 }
