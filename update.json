@@ -1,6 +1,6 @@
 {
-  "versionCode": 65,
-  "versionName": "1.0.6.5",
-  "downloadUrl": "https://aka.doubaocdn.com/s/mcocXWOxJP",
-  "changelog": "【v1.0.6.5 更新日志】\n• 登录系统全面升级：接入云端用户认证服务器\n• 注册账号数据存储在云端，多设备互通\n• 登录采用 JWT token 验证，安全可靠\n• 密码采用 bcrypt 加盐哈希存储\n• 支持在任意设备登录同一账号"
+  "versionCode": 66,
+  "versionName": "1.0.6.6",
+  "downloadUrl": "https://aka.doubaocdn.com/s/eV3TXEDDVZ",
+  "changelog": "【v1.0.6.6 更新日志】\n• 新增在线客服功能：我的页面一键接入人工客服\n• 客服消息实时推送，延迟极低\n• 支持快捷问题卡片、违规词检测、会话评分\n• 登录系统优化：云端认证稳定性提升"
 }
