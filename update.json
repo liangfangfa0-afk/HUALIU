@@ -1,6 +1,6 @@
 {
-  "versionCode": 64,
-  "versionName": "1.0.6.4",
-  "downloadUrl": "https://aka.doubaocdn.com/s/cHLLNzgDFs",
-  "changelog": "【v1.0.6.4 更新日志】\n• 公告改为国庆祝福，去除发布会相关内容\n• 直播入口改为直播已结束，去除跳转链接\n• 修复设置页面版本号显示不同步问题\n• 移除注册时的安全问题选择\n• 移除登录时的二级验证"
+  "versionCode": 65,
+  "versionName": "1.0.6.5",
+  "downloadUrl": "https://aka.doubaocdn.com/s/mcocXWOxJP",
+  "changelog": "【v1.0.6.5 更新日志】\n• 登录系统全面升级：接入云端用户认证服务器\n• 注册账号数据存储在云端，多设备互通\n• 登录采用 JWT token 验证，安全可靠\n• 密码采用 bcrypt 加盐哈希存储\n• 支持在任意设备登录同一账号"
 }
