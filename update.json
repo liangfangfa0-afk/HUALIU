@@ -1,6 +1,6 @@
 {
-  "versionCode": 67,
-  "versionName": "1.0.6.7",
-  "downloadUrl": "https://aka.doubaocdn.com/s/taaxrp7BRV",
-  "changelog": "【v1.0.6.7 更新日志】\n• 修复在线客服页面底部输入框被Tab栏遮挡问题\n• 在线客服页面布局优化"
+  "versionCode": 68,
+  "versionName": "1.0.6.8",
+  "downloadUrl": "https://aka.doubaocdn.com/s/WpukcdQUFX",
+  "changelog": "【v1.0.6.8 更新日志】\n• 修复在线客服页面顶部被状态栏遮挡问题"
 }
