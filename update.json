@@ -1,6 +1,6 @@
 {
-  "versionCode": 66,
-  "versionName": "1.0.6.6",
-  "downloadUrl": "https://aka.doubaocdn.com/s/eV3TXEDDVZ",
-  "changelog": "【v1.0.6.6 更新日志】\n• 新增在线客服功能：我的页面一键接入人工客服\n• 客服消息实时推送，延迟极低\n• 支持快捷问题卡片、违规词检测、会话评分\n• 登录系统优化：云端认证稳定性提升"
+  "versionCode": 67,
+  "versionName": "1.0.6.7",
+  "downloadUrl": "https://aka.doubaocdn.com/s/taaxrp7BRV",
+  "changelog": "【v1.0.6.7 更新日志】\n• 修复在线客服页面底部输入框被Tab栏遮挡问题\n• 在线客服页面布局优化"
 }
