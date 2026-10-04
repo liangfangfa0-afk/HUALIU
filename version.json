@@ -1,6 +1,6 @@
 {
-  "versionCode": 48,
-  "versionName": "1.0.4.8",
-  "downloadUrl": "https://aka.doubaocdn.com/s/IvlUinqgsP",
-  "changelog": "【v1.0.4.8 更新日志】\n\n• 版本检查切换回 jsDelivr CDN，国内直连无需代理\n• 修复 GitHub Raw 在无代理环境下检查更新失败问题\n• 云端缓存清理机制优化\n• 系统稳定性提升"
+  "versionCode": 75,
+  "versionName": "1.0.7.5",
+  "downloadUrl": "https://aka.doubaocdn.com/s/v7G8HIaYBM",
+  "changelog": "【v1.0.7.5 更新日志】\n• 新增全局深色模式，跟随系统自动切换，毛玻璃风格同步变深\n• 底部 Liquid Glass 导航栏自动适配深色模式\n• 我的页面删除服务与支持栏目\n• 设置页新增关于公司跳栏目及子页面\n• 设置页新增贡献人员跳栏目及子页面"
 }
