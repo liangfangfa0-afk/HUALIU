@@ -1,6 +1,1 @@
-{
-  "versionCode": 68,
-  "versionName": "1.0.6.8",
-  "downloadUrl": "https://aka.doubaocdn.com/s/WpukcdQUFX",
-  "changelog": "【v1.0.6.8 更新日志】\n• 修复在线客服页面顶部被状态栏遮挡问题"
-}
+{"versionCode": 69, "versionName": "1.0.6.9", "downloadUrl": "https://aka.doubaocdn.com/s/27nJbZaCjX", "changelog": "【v1.0.6.9 更新日志】\n• 客服结束评分改为毛玻璃弹窗\n• 结束客服时双方清除对话数据\n• 修复客服页面顶部状态栏遮挡"}
