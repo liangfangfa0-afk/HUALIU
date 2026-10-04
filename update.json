@@ -1,1 +1,6 @@
-{"versionCode": 72, "versionName": "1.0.7.2", "downloadUrl": "https://aka.doubaocdn.com/s/pbKzNnbKRk", "changelog": "【v1.0.7.2 更新日志】\n• 设置页面版本号同步更新为v1.0.7.2\n• 开发日志补全所有版本记录（v1.0.5.9至v1.0.7.2）\n• 客服页面顶部加返回按钮\n• 修复客服页面顶部状态栏和底部遮挡"}
+{
+  "versionCode": 73,
+  "versionName": "1.0.7.3",
+  "downloadUrl": "https://aka.doubaocdn.com/s/RdueIqBTgV",
+  "changelog": "【v1.0.7.3 更新日志】\n• 产品页全面更新：HUALIU 400 / 400 Turbo 双版本切换\n• 芯片更换为第七代骁龙8至尊版（Snapdragon 8 Elite Gen 7）\n• 屏幕升级：3510×2100 / 800PPI / 190Hz / 480Hz触控\n• 后置去掉长焦，仅保留潜望长焦，哈苏10倍无损光变\n• 前置5800万，慢动作4K 480fps\n• 电池12000mAh石墨烯48%，有线150W / 无线90W / 反向25W\n• 新增屏下3D超声波指纹，2D人脸，支持WiFi 8"
+}
