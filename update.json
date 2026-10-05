@@ -1,6 +1,6 @@
 {
-  "versionCode": 86,
-  "versionName": "1.0.8.6",
-  "downloadUrl": "https://aka.doubaocdn.com/s/JS0wWLVtJd",
-  "changelog": "【v1.0.8.6 更新日志】\n• 彻底修复首页公告按钮不固定：去掉body的position:relative，公告position:fixed加!important，固定顶部不跟随页面滚动\n• 修复公告弹窗文字不显示、点击无反应\n• 设置页版本号与更新日志同步更新（不再停留在旧版本）\n• OTA并发双源取最高版本，检查更新不卡住"
+  "versionCode": 87,
+  "versionName": "1.0.8.7",
+  "downloadUrl": "https://aka.doubaocdn.com/s/p6BN3FdMwf",
+  "changelog": "【v1.0.8.7 更新日志】\n• 修复顶部导航栏不固定：position:fixed加!important，固定顶部不跟随滚动\n• 修复公告弹窗被底部导航栏遮挡：弹窗卡片底部留出180px空间，我知道了按钮完整可见\n• 公告按钮固定顶部不跟随滚动\n• 设置页版本号与更新日志同步更新"
 }
