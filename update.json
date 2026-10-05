@@ -1,6 +1,6 @@
 {
-  "versionCode": 84,
-  "versionName": "1.0.8.4",
-  "downloadUrl": "https://aka.doubaocdn.com/s/jdOEuSobyP",
-  "changelog": "【v1.0.8.4 更新日志】\n• 彻底修复OTA检查更新卡住：并发请求jsDelivr+GitHub Raw双源，取最高版本，单个CDN缓存旧版本也能收到更新\n• 主源jsDelivr国内加速，超时8秒快速响应\n• 修复首页公告按钮点击无反应\n• 恢复首页国庆公告弹窗"
+  "versionCode": 85,
+  "versionName": "1.0.8.5",
+  "downloadUrl": "https://aka.doubaocdn.com/s/6LC9RnNevs",
+  "changelog": "【v1.0.8.5 更新日志】\n• 彻底修复首页公告：重写公告HTML结构，确保是body直接子元素，修复position:fixed失效、文字不显示、点击无反应\n• 公告弹窗改为纯白背景+金色按钮，文字清晰可见\n• OTA并发双源取最高版本，检查更新不卡住\n• 恢复首页国庆公告弹窗"
 }
