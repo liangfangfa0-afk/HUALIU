@@ -1,6 +1,6 @@
 {
-  "versionCode": 87,
-  "versionName": "1.0.8.7",
-  "downloadUrl": "https://aka.doubaocdn.com/s/p6BN3FdMwf",
-  "changelog": "【v1.0.8.7 更新日志】\n• 修复顶部导航栏不固定：position:fixed加!important，固定顶部不跟随滚动\n• 修复公告弹窗被底部导航栏遮挡：弹窗卡片底部留出180px空间，我知道了按钮完整可见\n• 公告按钮固定顶部不跟随滚动\n• 设置页版本号与更新日志同步更新"
+  "versionCode": 88,
+  "versionName": "1.0.8.8",
+  "downloadUrl": "https://aka.doubaocdn.com/s/IXEek7jxWI",
+  "changelog": "【v1.0.8.8 更新日志】\n• 导航栏和公告按钮改为CSS类方式（参考系统页面leintos.html的.nav-glass实现），彻底修复position:fixed不固定问题\n• 导航栏固定顶部不跟随页面滚动\n• 公告按钮固定顶部，点击弹出公告\n• 公告弹窗底部留出空间不被原生导航栏遮挡"
 }
