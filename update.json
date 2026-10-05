@@ -1,6 +1,6 @@
 {
-  "versionCode": 82,
-  "versionName": "1.0.8.2",
-  "downloadUrl": "https://aka.doubaocdn.com/s/fPKzsd2rwO",
-  "changelog": "【v1.0.8.2 更新日志】\n• 修复首页公告按钮点击无反应的问题（函数作用域修复）\n• 恢复首页国庆公告弹窗\n• 产品名：标准版 HUALIU LTEN 400，Turbo版 HUALIU LTEN 400 Turbo\n• 系统稳定性与流畅性提升"
+  "versionCode": 83,
+  "versionName": "1.0.8.3",
+  "downloadUrl": "https://aka.doubaocdn.com/s/oma8EWX5UA",
+  "changelog": "【v1.0.8.3 更新日志】\n• 修复OTA检查更新卡住的问题：主源切换为jsDelivr国内加速，超时缩短至8秒\n• 修复首页公告按钮点击无反应\n• 恢复首页国庆公告弹窗\n• 产品名：标准版 HUALIU LTEN 400，Turbo版 HUALIU LTEN 400 Turbo"
 }
