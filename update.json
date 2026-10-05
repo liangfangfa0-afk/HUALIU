@@ -1,6 +1,6 @@
 {
-  "versionCode": 90,
-  "versionName": "1.0.9.0",
-  "downloadUrl": "https://aka.doubaocdn.com/s/o2JUhKUKdx",
-  "changelog": "【v1.0.9.0 更新日志】\n• 首页index.html恢复为v1.0.7.6版本源码，导航栏和公告均正常固定\n• OTA主源改为GitHub Raw（确保能返回最新版本），备用源jsDelivr，超时3秒\n• OTA并发双源取最高版本，检查更新不卡住\n• 设置页版本号与更新日志同步更新"
+  "versionCode": 91,
+  "versionName": "1.0.9.1",
+  "downloadUrl": "https://aka.doubaocdn.com/s/OhmtGoiVAG",
+  "changelog": "【v1.0.9.1 更新日志】\n• 【安全修复】DeepSeek API Key 改为从云端获取，移除客户端硬编码，防止密钥泄露\n• 【紧急通知】因服务器遭受恶意攻击，HUALIU AI 助手大模型服务暂停使用，恢复时间留意官方通告\n• 所有用户均会收到紧急通知弹窗"
 }
