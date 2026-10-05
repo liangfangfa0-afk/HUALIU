@@ -1,6 +1,6 @@
 {
-  "versionCode": 76,
-  "versionName": "1.0.7.6",
-  "downloadUrl": "https://aka.doubaocdn.com/s/dGjVGolgsg",
-  "changelog": "【v1.0.7.6 更新日志】\n• OTA更新源切换为jsDelivr CDN，国内直连稳定\n• 新增GitHub Raw备用源，主源失败自动切换\n• 修复部分网络环境下检查更新失败问题\n• 新增全局深色模式，跟随系统自动切换\n• 我的页面删除服务与支持栏目\n• 设置页新增关于公司/贡献人员跳栏目及子页面"
+  "versionCode": 77,
+  "versionName": "1.0.7.7",
+  "downloadUrl": "https://aka.doubaocdn.com/s/Lmwrw6Yco4",
+  "changelog": "【v1.0.7.7 更新日志】\n• 产品名更正：HUALIU 400 Turbo → HUALIU L400 Turbo，与官网命名一致\n• 移除首页国庆公告弹窗\n• 系统稳定性与流畅性提升"
 }
