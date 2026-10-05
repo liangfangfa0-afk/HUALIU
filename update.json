@@ -1,6 +1,6 @@
 {
-  "versionCode": 80,
-  "versionName": "1.0.8.0",
-  "downloadUrl": "https://aka.doubaocdn.com/s/oZysWVkSKL",
-  "changelog": "【v1.0.8.0 更新日志】\n• OTA更新源切换为GitHub Raw主源，解决CDN缓存导致收不到更新的问题\n• 产品名更正：标准版 HUALIU LTEN 400，Turbo版 HUALIU LTEN 400 Turbo\n• 移除首页国庆公告弹窗\n• 系统稳定性与流畅性提升"
+  "versionCode": 81,
+  "versionName": "1.0.8.1",
+  "downloadUrl": "https://aka.doubaocdn.com/s/JVSprVDg6N",
+  "changelog": "【v1.0.8.1 更新日志】\n• 恢复首页国庆公告弹窗\n• 产品名：标准版 HUALIU LTEN 400，Turbo版 HUALIU LTEN 400 Turbo\n• OTA更新源已切换为GitHub Raw主源\n• 系统稳定性与流畅性提升"
 }
