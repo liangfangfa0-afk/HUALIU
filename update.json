@@ -1,6 +1,6 @@
 {
   "versionCode": 97,
   "versionName": "1.0.9.7",
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/liangfangfa0-afk/HUALIU@main/apk/HUALIU-v1.0.9.7.apk",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/dl/HUALIU-v1.0.9.7.apk",
   "changelog": "【v1.0.9.7 更新日志】\n• 【紧急修复】修复切换到 AI 页面时闪退的问题（Fragment 视图未就绪导致空指针异常）\n• 【弹窗修复】修复授权码弹窗二次弹出时「验证授权码」按钮消失无法点击的问题\n• 【稳定性】修复应用退出瞬间执行授权码检查导致的异常\n• 【授权码入口】授权码入口保留在「AI」界面，进入未授权时自动弹出\n• 【日志规范】更新弹窗、设置页版本号、更新日志页已同步 v1.0.9.7"
 }
