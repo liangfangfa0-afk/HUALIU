@@ -1,6 +1,6 @@
 {
-  "versionCode": 93,
-  "versionName": "1.0.9.3",
-  "downloadUrl": "https://aka.doubaocdn.com/s/9Mhf8UykBZ",
-  "changelog": "【v1.0.9.3 更新日志】\n• 【服务恢复】HUALIU AI 大模型服务全面恢复正常运行\n• 【安全升级】新增账号登录与唯一授权码验证机制，每个用户授权码唯一\n• 登录后需输入内部授权码激活 AI 功能，授权码弹窗采用毛玻璃液态玻璃风格\n• 公告改为「服务恢复通知」，说明新安全机制与使用指引\n• 【安全加固】DeepSeek API Key 继续从云端获取，客户端无硬编码"
+  "versionCode": 94,
+  "versionName": "1.0.9.4",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/liangfangfa0-afk/HUALIU@main/apk/HUALIU-v1.0.9.4.apk",
+  "changelog": "【v1.0.9.4 更新日志】\n• 【版本修正】设置页「版本更新」旁显示版本号与实际版本同步，修复显示版本低于实际版本的问题\n• 【服务恢复】HUALIU AI 大模型服务全面恢复正常运行\n• 【安全升级】新增账号登录与唯一授权码验证机制，每个用户授权码唯一\n• 登录后需输入内部授权码激活 AI 功能，授权码弹窗采用毛玻璃液态玻璃风格\n• 公告改为「服务恢复通知」，说明新安全机制与使用指引\n• 【安全加固】DeepSeek API Key 继续从云端获取，客户端无硬编码"
 }
