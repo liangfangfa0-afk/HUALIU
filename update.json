@@ -1,6 +1,6 @@
 {
   "versionCode": 104,
   "versionName": "1.0.10.4",
-  "downloadUrl": "https://raw.githubusercontent.com/liangfangfa0-afk/HUALIU/main/apk/HUALIU-v1.0.10.4.apk",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/dl/HUALIU-v1.0.10.4.apk",
   "changelog": "【v1.0.10.4 更新日志】\n• 【修复】修复再次打开AI页时授权码弹窗卡片消失、只剩按钮的问题\n• 【修复】showAuthCodeDialog 打开时恢复 overlay/card/按钮/输入框全部可见，杜绝上次GONE后不恢复\n• 【优化】OTA下载源恢复为 GitHub raw 主源 + jsDelivr 备用双源架构，不再依赖服务器部署\n• 【日志规范】更新弹窗、设置页版本号、更新日志页已同步 v1.0.10.4"
 }
