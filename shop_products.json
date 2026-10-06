@@ -1,0 +1,59 @@
+{
+  "version": "1.0",
+  "products": [
+    {
+      "id": "ai_week",
+      "name": "AI周卡",
+      "description": "7天AI大模型服务，畅享智能对话",
+      "image": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEZDNZqfIVX2ME3Uk__B-s8sXQy1VR_xwAC3yYAAkWI6Ff79tzdPWY1Jj0E.png",
+      "price": 30,
+      "category": "AI服务",
+      "tag": "热门"
+    },
+    {
+      "id": "ai_month",
+      "name": "AI月卡",
+      "description": "30天AI大模型服务，畅享智能对话",
+      "image": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEY2mdqeEkM04xe9eiGkxA7evFuBdNyhwAC7yoAAhVdwVd4ft3Mg1wCpz0E.png",
+      "price": 100,
+      "category": "AI服务",
+      "tag": "推荐"
+    },
+    {
+      "id": "auth_code",
+      "name": "AI激活码",
+      "description": "8位授权码，永久激活AI大模型功能",
+      "image": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEWHEtqPgR4CgK0Vpa7XC-TiSpBC8iiRAAC-SQAAk058VWK-ycpOEeK9DwE.png",
+      "price": 500,
+      "category": "AI服务",
+      "tag": "永久"
+    },
+    {
+      "id": "theme_glass",
+      "name": "液态玻璃主题",
+      "description": "专属液态玻璃透明主题，炫酷界面",
+      "image": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEZDNZqfIVX2ME3Uk__B-s8sXQy1VR_xwAC3yYAAkWI6Ff79tzdPWY1Jj0E.png",
+      "price": 80,
+      "category": "装扮",
+      "tag": ""
+    },
+    {
+      "id": "avatar_frame",
+      "name": "专属头像框",
+      "description": "金色流光头像框，彰显尊贵身份",
+      "image": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEY2mdqeEkM04xe9eiGkxA7evFuBdNyhwAC7yoAAhVdwVd4ft3Mg1wCpz0E.png",
+      "price": 50,
+      "category": "装扮",
+      "tag": ""
+    },
+    {
+      "id": "points_small",
+      "name": "积分小礼包",
+      "description": "额外获得50积分，可用于兑换商品",
+      "image": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEWHEtqPgR4CgK0Vpa7XC-TiSpBC8iiRAAC-SQAAk058VWK-ycpOEeK9DwE.png",
+      "price": 0,
+      "category": "福利",
+      "tag": "免费"
+    }
+  ]
+}
