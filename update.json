@@ -1,6 +1,6 @@
 {
-  "versionCode": 111,
-  "versionName": "1.0.11.1",
-  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.11.1",
-  "changelog": "【v1.0.11.1 更新日志】\n• 【修复】修复国内网络下检查更新经常提示已是最新版本的问题\n• 【新增】认证服务器代理源，国内访问稳定无CDN缓存\n• 【优化】检查更新从双源升级为三源，取版本号最高的\n• 【优化】单源等待超时从3秒延长至4秒\n\n【v1.0.11.0 更新日志】\n• 【新增】虚拟积分商城功能，底部Tab AI替换为商城\n• 【调整】AI功能迁移至我的页面，点击AI助手进入\n• 【新增】商城支持积分余额、商品分类、兑换确认、订单记录\n• 【福利】新用户注册即送100积分，可兑换AI周卡/月卡/激活码/主题/头像框"
+  "versionCode": 112,
+  "versionName": "1.0.11.2",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.11.2",
+  "changelog": "【v1.0.11.2 更新日志】\n• 【调整】商城商品改为HUALIU LTEN 400、HUALIU LTEN 400 Turbo、积分小礼包三个\n• 【修复】积分礼包免费兑换时报商品参数不完整的问题\n• 【优化】积分礼包支持免费领取并加50积分，按钮显示领取\n• 【优化】APK下载走服务器代理，国内稳定无CDN缓存\n\n【v1.0.11.1 更新日志】\n• 【修复】修复国内网络下检查更新经常提示已是最新版本的问题\n• 【新增】认证服务器代理源，国内访问稳定无CDN缓存\n• 【优化】检查更新从双源升级为三源，取版本号最高的"
 }
