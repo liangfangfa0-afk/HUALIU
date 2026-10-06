@@ -1,6 +1,6 @@
 {
-  "versionCode": 102,
-  "versionName": "1.0.10.2",
-  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/dl/HUALIU-v1.0.10.2.apk",
-  "changelog": "【v1.0.10.2 更新日志】\n• 【修复】彻底修复授权码弹窗点「取消」后按钮残留首页的问题\n• 【优化】取消时等弹窗淡出动画完成后再返回首页，杜绝渲染图层穿透残留\n• 【优化】弹窗隐藏后强制 display:none 兜底，快速重开时交互更稳定\n• 【日志规范】更新弹窗、设置页版本号、更新日志页已同步 v1.0.10.2"
+  "versionCode": 103,
+  "versionName": "1.0.10.3",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/dl/HUALIU-v1.0.10.3.apk",
+  "changelog": "【v1.0.10.3 更新日志】\n• 【修复】彻底修复授权码弹窗点「取消」后按钮残留首页的问题（原生弹窗）\n• 【修复】取消时不播淡出动画，先停止液态玻璃按钮backdrop渲染并强制GONE，再切Tab\n• 【优化】取消所有未完成动画，遮罩立即隐藏，300ms兜底二次检查，杜绝渲染图层穿透\n• 【日志规范】更新弹窗、设置页版本号、更新日志页已同步 v1.0.10.3"
 }
