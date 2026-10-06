@@ -1,6 +1,6 @@
 {
-  "versionCode": 105,
-  "versionName": "1.0.10.5",
-  "downloadUrl": "https://raw.githubusercontent.com/liangfangfa0-afk/HUALIU/main/apk/HUALIU-v1.0.10.5.apk",
-  "changelog": "【v1.0.10.5 更新日志】\n• 【调整】Turbo 版处理器名称改为 HUALIU ZIYAN® N1 Turbo Pro\n• 【调整】签名方式改为 debug 签名，老用户需先卸载旧版本再安装\n• 【优化】OTA下载源恢复为 GitHub raw 主源 + jsDelivr 备用双源架构\n• 【日志规范】更新弹窗、设置页版本号、更新日志页已同步 v1.0.10.5"
+  "versionCode": 106,
+  "versionName": "1.0.10.6",
+  "downloadUrl": "https://raw.githubusercontent.com/liangfangfa0-afk/HUALIU/main/apk/HUALIU-v1.0.10.6.apk",
+  "changelog": "【v1.0.10.6 更新日志】\n• 【修复】修复检查更新时云端版本号显示旧版本的问题\n• 【优化】OTA请求URL加时间戳参数，强制绕过jsDelivr CDN缓存，确保取到最新版本\n• 【优化】检查更新超时从3秒延长至5秒，避免raw源超时导致取到缓存旧版本\n• 【日志规范】更新弹窗、设置页版本号、更新日志页已同步 v1.0.10.6"
 }
