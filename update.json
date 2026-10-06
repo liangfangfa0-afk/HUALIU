@@ -1,6 +1,6 @@
 {
-  "versionCode": 110,
-  "versionName": "1.0.11.0",
-  "downloadUrl": "https://raw.githubusercontent.com/liangfangfa0-afk/HUALIU/main/apk/HUALIU-v1.0.11.0.apk",
-  "changelog": "【v1.0.11.0 更新日志】\n• 【新增】虚拟积分商城功能，底部Tab「AI」替换为「商城」\n• 【调整】AI功能迁移至「我的」页面，点击「AI助手」进入\n• 【新增】商城支持积分余额、商品分类、兑换确认、订单记录\n• 【福利】新用户注册即送100积分，可兑换AI周卡/月卡/激活码/主题/头像框\n• 【优化】商品数据存GitHub JSON，后台改商品无需重新发版\n• 【新增】兑换授权码类商品自动生成8位兑换码"
+  "versionCode": 111,
+  "versionName": "1.0.11.1",
+  "downloadUrl": "https://raw.githubusercontent.com/liangfangfa0-afk/HUALIU/main/apk/HUALIU-v1.0.11.1.apk",
+  "changelog": "【v1.0.11.1 更新日志】\n• 【修复】修复国内网络下检查更新经常提示"已是最新版本"的问题\n• 【新增】认证服务器代理源（/api/app-update），国内访问稳定无CDN缓存\n• 【优化】检查更新从双源升级为三源（服务器代理 > GitHub raw > jsDelivr），取版本号最高的\n• 【优化】单源等待超时从3秒延长至4秒\n\n【v1.0.11.0 更新日志】\n• 【新增】虚拟积分商城功能，底部Tab「AI」替换为「商城」\n• 【调整】AI功能迁移至「我的」页面，点击「AI助手」进入\n• 【新增】商城支持积分余额、商品分类、兑换确认、订单记录\n• 【福利】新用户注册即送100积分，可兑换AI周卡/月卡/激活码/主题/头像框"
 }
