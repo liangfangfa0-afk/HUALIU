@@ -1,6 +1,6 @@
 {
-  "versionCode": 106,
-  "versionName": "1.0.10.6",
-  "downloadUrl": "https://raw.githubusercontent.com/liangfangfa0-afk/HUALIU/main/apk/HUALIU-v1.0.10.6.apk",
-  "changelog": "【v1.0.10.6 更新日志】\n• 【修复】修复检查更新时云端版本号显示旧版本的问题\n• 【优化】OTA请求URL加时间戳参数，强制绕过jsDelivr CDN缓存，确保取到最新版本\n• 【优化】检查更新超时从3秒延长至5秒，避免raw源超时导致取到缓存旧版本\n• 【日志规范】更新弹窗、设置页版本号、更新日志页已同步 v1.0.10.6"
+  "versionCode": 110,
+  "versionName": "1.0.11.0",
+  "downloadUrl": "https://raw.githubusercontent.com/liangfangfa0-afk/HUALIU/main/apk/HUALIU-v1.0.11.0.apk",
+  "changelog": "【v1.0.11.0 更新日志】\n• 【新增】虚拟积分商城功能，底部Tab「AI」替换为「商城」\n• 【调整】AI功能迁移至「我的」页面，点击「AI助手」进入\n• 【新增】商城支持积分余额、商品分类、兑换确认、订单记录\n• 【福利】新用户注册即送100积分，可兑换AI周卡/月卡/激活码/主题/头像框\n• 【优化】商品数据存GitHub JSON，后台改商品无需重新发版\n• 【新增】兑换授权码类商品自动生成8位兑换码"
 }
