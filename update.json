@@ -1,6 +1,6 @@
 {
-  "versionCode": 112,
-  "versionName": "1.0.11.2",
-  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.11.2",
-  "changelog": "【v1.0.11.2 更新日志】\n• 【调整】商城商品改为HUALIU LTEN 400、HUALIU LTEN 400 Turbo、积分小礼包三个\n• 【修复】积分礼包免费兑换时报商品参数不完整的问题\n• 【优化】积分礼包支持免费领取并加50积分，按钮显示领取\n• 【优化】APK下载走服务器代理，国内稳定无CDN缓存\n\n【v1.0.11.1 更新日志】\n• 【修复】修复国内网络下检查更新经常提示已是最新版本的问题\n• 【新增】认证服务器代理源，国内访问稳定无CDN缓存\n• 【优化】检查更新从双源升级为三源，取版本号最高的"
+  "versionCode": 113,
+  "versionName": "1.0.11.3",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.11.3",
+  "changelog": "【v1.0.11.3 更新日志】\n• 【重构】商城页面全面重构：商品图片不裁剪自适应高度，卡片根据图片大小自适应\n• 【新增】商品详情弹窗，支持多版本选择（不同存储版本不同价格）\n• 【调整】商城货币单位从积分改为元（虚拟货币，不涉及真实支付）\n• 【定价】HUALIU 400系列5个版本：12+256=4999，12+512=5499，16+512=5999，16+1TB=6499，24+2TB=8999\n• 【标记】HUALIU 400 Turbo标记为暂未开售，按钮不可点击\n• 【规范】以后商城商品都按此规范：图片不裁剪、多版本选择、价格用元\n\n【v1.0.11.2 更新日志】\n• 【调整】商城商品改为HUALIU LTEN 400、HUALIU LTEN 400 Turbo、积分小礼包三个\n• 【修复】积分礼包免费兑换时报商品参数不完整的问题\n• 【优化】积分礼包支持免费领取并加50积分"
 }
