@@ -32,7 +32,7 @@
       "available": false,
       "starting_price": 99999,
       "colors": [
-        {"id": "purple", "name": "紫色刀锋", "image": "phone_turbo.jpg"}
+        {"id": "purple", "name": "初号紫", "image": "phone_turbo.jpg"}
       ],
       "versions": [
         {"id": "16_512", "name": "16GB+512GB", "price": 99999},
