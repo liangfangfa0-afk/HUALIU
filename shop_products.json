@@ -42,21 +42,6 @@
         {"id": "24_1tb", "name": "24GB+1TB", "price": 99999},
         {"id": "24_2tb", "name": "24GB+2TB", "price": 99999}
       ]
-    },
-    {
-      "id": "points_gift",
-      "name": "积分小礼包",
-      "description": "免费领取，立即获得50元，可用于兑换商品",
-      "image": "phone_black.jpg",
-      "category": "福利",
-      "tag": "免费",
-      "available": true,
-      "price": 0,
-      "starting_price": 0,
-      "reward_points": 50,
-      "versions": [
-        {"id": "default", "name": "标准版", "price": 0}
-      ]
     }
   ]
 }
