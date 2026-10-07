@@ -9,6 +9,7 @@
       "category": "手机",
       "tag": "标准版",
       "available": true,
+      "price": 4999,
       "starting_price": 4999,
       "colors": [
         {"id": "black", "name": "曜石黑", "image": "phone_black.jpg"},
@@ -30,6 +31,7 @@
       "category": "手机",
       "tag": "暂未开售",
       "available": false,
+      "price": 99999,
       "starting_price": 99999,
       "colors": [
         {"id": "purple", "name": "初号紫", "image": "phone_turbo.jpg"}
@@ -49,6 +51,7 @@
       "category": "福利",
       "tag": "免费",
       "available": true,
+      "price": 0,
       "starting_price": 0,
       "reward_points": 50,
       "versions": [
