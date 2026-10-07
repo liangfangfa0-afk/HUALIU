@@ -1,33 +1,52 @@
 {
-  "version": "1.1",
+  "version": "2.0",
   "products": [
     {
       "id": "hualiu_400",
       "name": "HUALIU LTEN 400",
       "description": "旗舰手机，ZIYAN N1处理器，120Hz高刷屏，液态玻璃机身",
       "image": "phone_black.jpg",
-      "price": 9999,
       "category": "手机",
-      "tag": "标准版"
+      "tag": "标准版",
+      "available": true,
+      "starting_price": 4999,
+      "versions": [
+        {"id": "12_256", "name": "12GB+256GB", "price": 4999},
+        {"id": "12_512", "name": "12GB+512GB", "price": 5499},
+        {"id": "16_512", "name": "16GB+512GB", "price": 5999},
+        {"id": "16_1tb", "name": "16GB+1TB", "price": 6499},
+        {"id": "24_2tb", "name": "24GB+2TB", "price": 8999}
+      ]
     },
     {
       "id": "hualiu_400_turbo",
       "name": "HUALIU LTEN 400 Turbo",
       "description": "Turbo性能版，ZIYAN N1 Turbo Pro处理器，散热风扇，190Hz屏",
       "image": "phone_black.jpg",
-      "price": 15999,
       "category": "手机",
-      "tag": "性能版"
+      "tag": "暂未开售",
+      "available": false,
+      "starting_price": 999999,
+      "versions": [
+        {"id": "16_512", "name": "16GB+512GB", "price": 999999},
+        {"id": "16_1tb", "name": "16GB+1TB", "price": 999999},
+        {"id": "24_1tb", "name": "24GB+1TB", "price": 999999},
+        {"id": "24_2tb", "name": "24GB+2TB", "price": 999999}
+      ]
     },
     {
       "id": "points_gift",
       "name": "积分小礼包",
-      "description": "免费领取，立即获得50积分，可用于兑换商品",
+      "description": "免费领取，立即获得50元，可用于兑换商品",
       "image": "phone_black.jpg",
-      "price": 0,
       "category": "福利",
       "tag": "免费",
-      "reward_points": 50
+      "available": true,
+      "starting_price": 0,
+      "reward_points": 50,
+      "versions": [
+        {"id": "default", "name": "标准版", "price": 0}
+      ]
     }
   ]
 }
