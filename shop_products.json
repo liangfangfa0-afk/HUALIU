@@ -29,8 +29,8 @@
       "description": "Turbo性能版，ZIYAN N1 Turbo Pro处理器，散热风扇，190Hz屏",
       "image": "phone_turbo.jpg",
       "category": "手机",
-      "tag": "暂未开售",
-      "available": false,
+      "tag": "性能版",
+      "available": true,
       "price": 99999,
       "starting_price": 99999,
       "colors": [
