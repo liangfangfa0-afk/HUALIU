@@ -1,5 +1,5 @@
 {
-  "version": "2.0",
+  "version": "2.1",
   "products": [
     {
       "id": "hualiu_400",
@@ -10,6 +10,10 @@
       "tag": "标准版",
       "available": true,
       "starting_price": 4999,
+      "colors": [
+        {"id": "black", "name": "曜石黑", "image": "phone_black.jpg"},
+        {"id": "gold", "name": "流沙金", "image": "phone_gold.jpg"}
+      ],
       "versions": [
         {"id": "12_256", "name": "12GB+256GB", "price": 4999},
         {"id": "12_512", "name": "12GB+512GB", "price": 5499},
@@ -22,16 +26,19 @@
       "id": "hualiu_400_turbo",
       "name": "HUALIU LTEN 400 Turbo",
       "description": "Turbo性能版，ZIYAN N1 Turbo Pro处理器，散热风扇，190Hz屏",
-      "image": "phone_black.jpg",
+      "image": "phone_turbo.jpg",
       "category": "手机",
       "tag": "暂未开售",
       "available": false,
-      "starting_price": 999999,
+      "starting_price": 99999,
+      "colors": [
+        {"id": "purple", "name": "紫色刀锋", "image": "phone_turbo.jpg"}
+      ],
       "versions": [
-        {"id": "16_512", "name": "16GB+512GB", "price": 999999},
-        {"id": "16_1tb", "name": "16GB+1TB", "price": 999999},
-        {"id": "24_1tb", "name": "24GB+1TB", "price": 999999},
-        {"id": "24_2tb", "name": "24GB+2TB", "price": 999999}
+        {"id": "16_512", "name": "16GB+512GB", "price": 99999},
+        {"id": "16_1tb", "name": "16GB+1TB", "price": 99999},
+        {"id": "24_1tb", "name": "24GB+1TB", "price": 99999},
+        {"id": "24_2tb", "name": "24GB+2TB", "price": 99999}
       ]
     },
     {
