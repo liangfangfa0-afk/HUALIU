@@ -1,6 +1,6 @@
 {
-  "versionCode": 122,
-  "versionName": "1.0.12.2",
-  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.12.2",
-  "changelog": "【v1.0.12.2 更新日志】\n• 【修复】全局深色模式生效——所有页面（首页/商城/我的/产品/AI/订单等）均支持深色模式，切换后全局生效\n• 【修复】设置页底部空白问题——去掉min-height固定高度，页面高度自适应内容\n\n【v1.0.12.1 更新日志】\n• 【修复】深色模式切换无效，添加body.dark样式，手动切换深色/浅色模式立即生效\n• 【修复】主题选择弹窗被底部Tab栏挡住，弹窗底部padding加大到110px\n• 【优化】设置页底部padding调小，减少底部空白区域\n\n【v1.0.12.0 更新日志】\n• 【新增】帮助与反馈中心，含常见问题FAQ和意见反馈表单\n• 【新增】主题模式自由切换：跟随系统/浅色模式/深色模式，设置页一键切换\n• 【优化】底部Tab页面切换动画，新页面从右侧滑入+淡入，更流畅自然"
+  "versionCode": 123,
+  "versionName": "1.0.12.3",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.12.3",
+  "changelog": "【v1.0.12.3 更新日志】\n• 【修复】设置页底部空白——html设height:100%，body设min-height:100%，渐变背景铺满整个屏幕，不再露出白色空白\n\n【v1.0.12.2 更新日志】\n• 【修复】全局深色模式生效——所有页面（首页/商城/我的/产品/AI/订单等）均支持深色模式，切换后全局生效\n• 【修复】设置页底部空白问题——去掉min-height固定高度，页面高度自适应内容\n\n【v1.0.12.0 更新日志】\n• 【新增】帮助与反馈中心，含常见问题FAQ和意见反馈表单\n• 【新增】主题模式自由切换：跟随系统/浅色模式/深色模式，设置页一键切换\n• 【优化】底部Tab页面切换动画，新页面从右侧滑入+淡入，更流畅自然"
 }
