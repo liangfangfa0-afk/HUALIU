@@ -1,6 +1,6 @@
 {
-  "versionCode": 125,
-  "versionName": "1.0.12.5",
-  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.12.5",
-  "changelog": "【v1.0.12.5 更新日志】\n• 【修复】设置页固定为单一页，height:100vh + overflow:hidden，彻底禁止滑动，不再出现底部空白\n\n【v1.0.12.2 更新日志】\n• 【修复】全局深色模式生效——所有页面均支持深色模式，切换后全局生效\n\n【v1.0.12.0 更新日志】\n• 【新增】帮助与反馈中心，含常见问题FAQ和意见反馈表单\n• 【新增】主题模式自由切换：跟随系统/浅色模式/深色模式\n• 【优化】底部Tab页面切换动画，新页面从右侧滑入+淡入"
+  "versionCode": 130,
+  "versionName": "1.0.13.0",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.13.0",
+  "changelog": "【v1.0.13.0 紧急安全更新】\n• 【安全】AI大模型服务全面临时关闭，输入框/麦克风/发送键全部封死，有授权码也暂不可用\n• 【公告】开屏公告改为紧急安全通知：服务器遭受持续性恶意网络攻击，技术团队已启动应急响应进行安全排查与系统加固\n\n【v1.0.12.0 更新日志】\n• 【新增】帮助与反馈中心\n• 【新增】主题模式自由切换（跟随系统/浅色/深色）\n• 【优化】页面切换动画"
 }
