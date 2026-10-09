@@ -1,6 +1,6 @@
 {
-  "versionCode": 131,
-  "versionName": "1.0.13.1",
-  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.13.1",
-  "changelog": "【v1.0.13.1 更新日志】\n• 【优化】商城余额/价格单位从\"元\"改为\"¥\"符号，更符合真实支付体验\n• 【优化】\"兑换成功\"改为\"支付成功\"，\"确认兑换\"改为\"确认支付\"\n• 【新增】虚拟支付密码弹窗，购买商品时需输入6位支付密码（任意数字即可通过，不涉及真实支付）\n\n【v1.0.13.0 紧急安全更新】\n• 【安全】AI大模型服务全面临时关闭，输入框/麦克风/发送键全部封死\n• 【公告】开屏公告改为紧急安全通知：服务器遭受持续性恶意网络攻击"
+  "versionCode": 132,
+  "versionName": "1.0.13.2",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.13.2",
+  "changelog": "【v1.0.13.2 更新日志】\n• 【优化】商品数据改走服务器代理 /api/shop/products，服务器内存缓存5分钟\n• 【修复】GitHub raw拉取失败时，服务器返回缓存数据，保证商品页不空白\n\n【v1.0.13.1 更新日志】\n• 【优化】商城余额/价格单位从\"元\"改为\"¥\"符号\n• 【优化】\"兑换成功\"改为\"支付成功\"，\"确认兑换\"改为\"确认支付\"\n• 【新增】虚拟支付密码弹窗，任意6位数字即可通过"
 }
