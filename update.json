@@ -1,6 +1,6 @@
 {
-  "versionCode": 133,
-  "versionName": "1.0.13.3",
-  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.13.3",
-  "changelog": "【v1.0.13.3 更新日志】\n• 【修复】商城页面JavaScript语法错误（detailBalance行多了一个单引号，导致整个商城页面JS崩溃，余额和商品都不显示）\n\n【v1.0.13.2 更新日志】\n• 【优化】商品数据改走服务器代理 /api/shop/products，服务器内存缓存5分钟\n• 【修复】GitHub raw拉取失败时，服务器返回缓存数据，保证商品页不空白\n\n【v1.0.13.1 更新日志】\n• 【优化】商城余额/价格单位从\"元\"改为\"¥\"符号\n• 【优化】\"兑换成功\"改为\"支付成功\"，\"确认兑换\"改为\"确认支付\"\n• 【新增】虚拟支付密码弹窗，任意6位数字即可通过"
+  "versionCode": 134,
+  "versionName": "1.0.13.4",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.13.4",
+  "changelog": "【v1.0.13.4 更新日志】\n• 【新增】商城支付新增系统指纹验证，支付密码弹窗增加\"使用指纹验证\"按钮，调用Android BiometricPrompt拉起系统指纹验证，验证成功自动完成支付\n\n【v1.0.13.3 更新日志】\n• 【修复】商城页面JavaScript语法错误（detailBalance行多了一个单引号，导致整个商城页面JS崩溃）\n\n【v1.0.13.2 更新日志】\n• 【优化】商品数据改走服务器代理 /api/shop/products，服务器内存缓存5分钟\n• 【修复】GitHub raw拉取失败时，服务器返回缓存数据，保证商品页不空白"
 }
