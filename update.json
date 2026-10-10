@@ -1,6 +1,6 @@
 {
-  "versionCode": 140,
-  "versionName": "1.0.14.0",
-  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.14.0",
-  "changelog": "【v1.0.14.0 更新日志】\n• 【新增】消息推送系统上线——服务器新增消息表和5个API，支持个人消息和全员消息推送\n• 【新增】消息中心页面，查看系统通知、订单消息、活动资讯\n• 【新增】我的页面显示未读消息角标，点击消息自动标记已读，支持全部已读\n• 【新增】管理员可通过API向指定用户或全员推送消息\n\n【v1.0.13.4 更新日志】\n• 【新增】商城支付新增系统指纹验证，调用Android BiometricPrompt拉起系统指纹验证"
+  "versionCode": 141,
+  "versionName": "1.0.14.1",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.14.1",
+  "changelog": "【v1.0.14.1 更新日志】\n• 【新增】HUALIU LTEN 400 Turbo 正式开售，初号紫配色，16GB+512GB起售价¥4799\n• 【优化】产品页切换型号时重置颜色选择，Turbo版仅显示初号紫（圆圈表示）\n• 【优化】产品页Turbo版删除\"暂未开售\"标记和99999价格，不在产品页标售价\n• 【更新】Turbo版入网型号更新为 HL TWS 120\n• 【推送】已向全员推送Turbo版开售消息，可在消息中心查看\n\n【v1.0.14.0 更新日志】\n• 【新增】消息推送系统上线——消息中心页面、未读消息角标、管理员推送"
 }
