@@ -31,16 +31,16 @@
       "category": "手机",
       "tag": "性能版",
       "available": true,
-      "price": 99999,
-      "starting_price": 99999,
+      "price": 4799,
+      "starting_price": 4799,
       "colors": [
         {"id": "purple", "name": "初号紫", "image": "phone_turbo.jpg"}
       ],
       "versions": [
-        {"id": "16_512", "name": "16GB+512GB", "price": 99999},
-        {"id": "16_1tb", "name": "16GB+1TB", "price": 99999},
-        {"id": "24_1tb", "name": "24GB+1TB", "price": 99999},
-        {"id": "24_2tb", "name": "24GB+2TB", "price": 99999}
+        {"id": "16_512", "name": "16GB+512GB", "price": 4799},
+        {"id": "16_1tb", "name": "16GB+1TB", "price": 5299},
+        {"id": "24_1tb", "name": "24GB+1TB", "price": 6899},
+        {"id": "24_2tb", "name": "24GB+2TB", "price": 7999}
       ]
     }
   ]
