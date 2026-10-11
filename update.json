@@ -1,6 +1,6 @@
 {
   "versionCode": 146,
   "versionName": "1.0.14.6",
-  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.14.6",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/dl/HUALIU-v1.0.14.6.apk",
   "changelog": "【v1.0.14.6 更新日志】\n• 【修复】添加READ_PHONE_STATE权限，确保极光推送设备注册正常\n• 【修复】极光推送初始化只在主进程执行，避免pushcore进程重复初始化\n\n【v1.0.14.5 更新日志】\n• 【修复】版本号四处同步——build.gradle、settings.html、update.json、changelog.html全部同步更新\n\n【v1.0.14.4 更新日志】\n• 【修复】添加Android 13+动态通知权限请求——APP启动时弹出通知权限授权，确保极光推送系统通知正常工作\n\n【v1.0.14.3 更新日志】\n• 【修复】补全APP内日志更新页面，同步v1.0.12.0至v1.0.14.2所有版本更新记录\n\n【v1.0.14.2 更新日志】\n• 【新增】集成极光推送SDK，系统通知功能上线——管理员推送消息时，同时发送系统通知到手机通知栏，APP没打开也能收到\n• 【新增】点击通知自动打开APP\n• 【优化】消息推送同时支持APP内消息中心和手机系统通知双通道"
 }
