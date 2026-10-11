@@ -1,6 +1,6 @@
 {
-  "versionCode": 143,
-  "versionName": "1.0.14.3",
-  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.14.3",
-  "changelog": "【v1.0.14.3 更新日志】\n• 【修复】补全APP内日志更新页面，同步v1.0.12.0至v1.0.14.2所有版本更新记录\n\n【v1.0.14.2 更新日志】\n• 【新增】集成极光推送SDK，系统通知功能上线——管理员推送消息时，同时发送系统通知到手机通知栏，APP没打开也能收到\n• 【新增】点击通知自动打开APP\n• 【优化】消息推送同时支持APP内消息中心和手机系统通知双通道\n\n【v1.0.14.1 更新日志】\n• 【新增】HUALIU LTEN 400 Turbo 正式开售，初号紫配色，16GB+512GB起售价¥4799\n• 【优化】产品页切换型号时重置颜色选择，Turbo版仅显示初号紫（圆圈表示）\n• 【优化】产品页Turbo版删除\"暂未开售\"标记和99999价格，不在产品页标售价\n• 【更新】Turbo版入网型号更新为 HL TWS 120"
+  "versionCode": 144,
+  "versionName": "1.0.14.4",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.14.4",
+  "changelog": "【v1.0.14.4 更新日志】\n• 【修复】添加Android 13+动态通知权限请求——APP启动时弹出通知权限授权，确保极光推送系统通知正常工作\n\n【v1.0.14.3 更新日志】\n• 【修复】补全APP内日志更新页面，同步v1.0.12.0至v1.0.14.2所有版本更新记录\n\n【v1.0.14.2 更新日志】\n• 【新增】集成极光推送SDK，系统通知功能上线——管理员推送消息时，同时发送系统通知到手机通知栏，APP没打开也能收到\n• 【新增】点击通知自动打开APP\n• 【优化】消息推送同时支持APP内消息中心和手机系统通知双通道"
 }
