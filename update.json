@@ -1,6 +1,6 @@
 {
-  "versionCode": 148,
-  "versionName": "1.0.14.8 测试版",
-  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.14.8",
-  "changelog": "【v1.14.8 测试版 更新日志】\n• 【修复】HTML热更新页面加载失败ERR_ACCESS_DENIED问题，缓存目录改到cacheDir\n• 【修复】WebView加allowFileAccess，加载失败自动fallback到APK内置默认页面\n• 【说明】HTML热更新功能修复，启动时自动从服务器拉取最新页面"
+  "versionCode": 149,
+  "versionName": "1.0.14.9 测试版",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.14.9",
+  "changelog": "【v1.0.14.9 测试版 更新日志】\n• 【新增】开屏公告改为从服务器拉取，保留液态玻璃弹窗样式，APK不再硬编码公告内容\n• 【优化】工作台公告管理修改后，主APP下次启动自动显示新公告，实时生效\n• 【移除】首页右上角公告按钮改为不可点击、无红点，公告弹窗已移除"
 }
