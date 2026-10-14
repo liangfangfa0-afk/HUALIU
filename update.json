@@ -1,6 +1,6 @@
 {
-  "versionCode": 151,
-  "versionName": "1.0.15.1 测试版",
-  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.15.1",
-  "changelog": "【v1.0.15.1 测试版 更新日志】\n• 【新增】所有18个HTML页面全部加上下拉刷新功能，包括首页、产品、商城、我的、AI、设置等\n• 【说明】任何页面图片加载不出来，下拉一下就能刷新"
+  "versionCode": 152,
+  "versionName": "1.0.15.2 测试版",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.15.2",
+  "changelog": "【v1.0.15.2 测试版 更新日志】\n• 【修复】HTML热更新页面相对路径图片加载失败问题——自动把assets里的图片/JS/CSS复制到缓存目录\n• 【说明】产品页、商城页的手机图片现在能正常显示了"
 }
