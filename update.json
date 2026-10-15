@@ -1,6 +1,6 @@
 {
-  "versionCode": 152,
-  "versionName": "1.0.15.2 测试版",
-  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.15.2",
-  "changelog": "【v1.0.15.2 测试版 更新日志】\n• 【修复】HTML热更新页面相对路径图片加载失败问题——自动把assets里的图片/JS/CSS复制到缓存目录\n• 【说明】产品页、商城页的手机图片现在能正常显示了"
+  "versionCode": 153,
+  "versionName": "1.0.15.3 测试版",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.15.3",
+  "changelog": "【v1.0.15.3 测试版 更新日志】\n• 【恢复】DeepSeek AI大模型服务恢复正常使用\n• 【说明】登录账号并输入授权码后即可使用AI对话功能"
 }
