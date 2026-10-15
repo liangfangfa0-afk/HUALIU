@@ -1,6 +1,6 @@
 {
-  "versionCode": 154,
-  "versionName": "1.0.15.3",
-  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.15.3",
-  "changelog": "【v1.0.15.3 更新日志】\n• 【恢复】AI大模型服务全面恢复，删除所有禁用代码\n• 【修复】AI对话消息发不出去、回车发送无效的问题\n• 【修复】不再提示\"正在维护中\"\n• 【说明】正式版，不再带测试版标识"
+  "versionCode": 155,
+  "versionName": "1.0.15.4",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.15.4",
+  "changelog": "【v1.0.15.4 更新日志】\n• 【修复】首页顶部导航栏缺一块的问题，补全右侧\n• 【新增】开屏公告标题和内容可分别设置不同颜色\n• 【说明】公告颜色在工作台公告管理里调整"
 }
