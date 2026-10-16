@@ -1,6 +1,6 @@
 {
   "versionCode": 155,
   "versionName": "1.0.15.4",
-  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.15.4",
-  "changelog": "【v1.0.15.4 更新日志】\n• 【修复】首页顶部导航栏缺一块的问题，补全右侧\n• 【新增】开屏公告标题和内容可分别设置不同颜色\n• 【说明】公告颜色在工作台公告管理里调整"
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/liangfangfa0-afk/HUALIU@main/apk/HUALIU-v1.0.15.4.apk",
+  "changelog": "【v1.0.15.4 更新日志】\n• 【正式版】去掉测试版字样\n• 【新增】开屏公告支持标题和内容分别设置不同颜色\n• 【修复】AI对话打字发不出去、提示维护中的问题\n• 【优化】所有HTML页面增加下拉刷新功能"
 }
