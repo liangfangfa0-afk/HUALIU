@@ -1,6 +1,6 @@
 {
-  "versionCode": 162,
-  "versionName": "1.0.16.1",
-  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.16.1",
-  "changelog": "【v1.0.16.1 更新日志】\n• 【重写】首页和系统页全部重写，移除官网模板，用干净简洁的自有代码\n• 【优化】所有图片直接走自有服务器，彻底移除第三方图床依赖\n• 【修复】微博图标显示不全问题\n• 【优化】页面加载速度大幅提升"
+  "versionCode": 163,
+  "versionName": "1.0.16.2",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.16.2",
+  "changelog": "【v1.0.16.2 更新日志】\n• 【恢复】首页和系统页恢复官网原版设计风格\n• 【优化】所有图片地址改为自有服务器，不再依赖第三方图床\n• 【修复】微博图标显示不全问题"
 }
