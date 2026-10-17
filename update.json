@@ -2,5 +2,5 @@
   "versionCode": 158,
   "versionName": "1.0.15.7",
   "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.15.7",
-  "changelog": "【v1.0.15.7 更新日志】\n• 【修复】每次切回首页先从服务器拉取最新HTML再加载，彻底解决改完内容不刷新的问题\n• 【修复】WebView加载前清除缓存，不再显示旧页面"
+  "changelog": "【v1.0.15.7 更新日志】\n• 【修复】版本号四处同步：设置页动态获取、更新日志补全v1.0.15.0~15.7、检查更新Toast显示版本名\n• 【修复】首页切回时自动触发HTML热更新拉取，确保服务器改完APP实时生效\n• 【修复】WebView清除缓存后再加载，杜绝旧页面残留"
 }
