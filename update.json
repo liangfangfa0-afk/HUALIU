@@ -2,5 +2,5 @@
   "versionCode": 157,
   "versionName": "1.0.15.6",
   "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.15.6",
-  "changelog": "【v1.0.15.6 更新日志】\n• 【优化】首页轮播图从图床迁移到自有服务器，不再依赖第三方图床\n• 【修复】assets默认HTML同步更新，即使热更新拉取失败也显示服务器地址"
+  "changelog": "【v1.0.15.6 更新日志】\n• 【优化】首页三张轮播图从第三方图床迁移到自有服务器，图床挂了也不影响\n• 【修复】assets默认HTML同步更新，离线fallback也显示正确图片"
 }
