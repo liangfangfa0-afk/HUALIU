@@ -1,6 +1,6 @@
 {
-  "versionCode": 164,
-  "versionName": "1.0.16.3",
-  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.16.3",
-  "changelog": "【v1.0.16.3 更新日志】\n• 【修复】系统页恢复官网原版，产品图保持原地址不动\n• 【修复】仅替换底部3张社交图标为服务器地址\n• 【修复】微博图标显示不全问题"
+  "versionCode": 165,
+  "versionName": "1.0.16.4",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.16.4",
+  "changelog": "【v1.0.16.4 更新日志】\n• 【修复】WebView图片加载问题，明确开启图片自动加载\n• 【修复】只拦截页面跳转，不拦截图片/CSS/JS资源请求\n• 【修复】轮播图第二第三张加载不出来的问题"
 }
