@@ -1,6 +1,0 @@
-{
-  "versionCode": 48,
-  "versionName": "1.0.4.8",
-  "downloadUrl": "https://aka.doubaocdn.com/s/IvlUinqgsP",
-  "changelog": "【v1.0.4.8 更新日志】\n\n• 版本检查切换回 jsDelivr CDN，国内直连无需代理\n• 修复 GitHub Raw 在无代理环境下检查更新失败问题\n• 云端缓存清理机制优化\n• 系统稳定性提升"
-}
