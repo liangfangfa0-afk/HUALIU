@@ -1,6 +1,6 @@
 {
-  "versionCode": 159,
-  "versionName": "1.0.15.8",
-  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.15.8",
-  "changelog": "【v1.0.15.8 更新日志】\n• 【修复】HtmlUpdater每次启动强制清除版本记录，拉取服务器最新HTML，杜绝旧缓存残留\n• 【修复】设置页版本号动态获取，更新日志补全v1.0.15.0~15.8\n• 【修复】首页轮播图从自有服务器加载，不再依赖第三方图床"
+  "versionCode": 160,
+  "versionName": "1.0.15.9",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.15.9",
+  "changelog": "【v1.0.15.9 更新日志】\n• 【重构】所有HTML页面和图片全部迁移到自有服务器，APP只保留原生空壳\n• 【移除】首页轮播图（过几天换新图）\n• 【优化】产品页/关于页等所有图片从服务器加载，不再依赖本地assets\n• 【修复】HtmlUpdater每次强制拉取最新HTML，杜绝旧缓存"
 }
