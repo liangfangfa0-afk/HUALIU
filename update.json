@@ -1,6 +1,6 @@
 {
-  "versionCode": 156,
-  "versionName": "1.0.15.5",
-  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.15.5",
-  "changelog": "【v1.0.15.5 更新日志】\n• 【修复】HTML热更新不生效：WebView缓存模式改为NO_CACHE，每次回到页面重新加载最新HTML\n• 【修复】首页/AI页面改完内容后APP不刷新的问题"
+  "versionCode": 157,
+  "versionName": "1.0.15.6",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.15.6",
+  "changelog": "【v1.0.15.6 更新日志】\n• 【优化】首页轮播图从图床迁移到自有服务器，不再依赖第三方图床\n• 【修复】assets默认HTML同步更新，即使热更新拉取失败也显示服务器地址"
 }
