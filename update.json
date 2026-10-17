@@ -1,6 +1,6 @@
 {
-  "versionCode": 157,
-  "versionName": "1.0.15.6",
-  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.15.6",
-  "changelog": "【v1.0.15.6 更新日志】\n• 【优化】首页三张轮播图从第三方图床迁移到自有服务器，图床挂了也不影响\n• 【修复】assets默认HTML同步更新，离线fallback也显示正确图片"
+  "versionCode": 158,
+  "versionName": "1.0.15.7",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.15.7",
+  "changelog": "【v1.0.15.7 更新日志】\n• 【修复】每次切回首页先从服务器拉取最新HTML再加载，彻底解决改完内容不刷新的问题\n• 【修复】WebView加载前清除缓存，不再显示旧页面"
 }
