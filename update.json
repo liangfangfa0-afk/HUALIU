@@ -1,6 +1,6 @@
 {
-  "versionCode": 161,
-  "versionName": "1.0.16.0",
-  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.16.0",
-  "changelog": "【v1.0.16.0 更新日志】\n• 【优化】所有图片迁移到自有服务器，移除第三方图床依赖\n• 【修复】系统官网(leintos)11张产品图加载失败问题\n• 【修复】底部微博图标只显示一半的问题\n• 【优化】本地APP只留空壳，所有HTML和图片走服务器热更新\n• 【修复】首页倒计时卡片被导航栏遮挡问题"
+  "versionCode": 162,
+  "versionName": "1.0.16.1",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.16.1",
+  "changelog": "【v1.0.16.1 更新日志】\n• 【重写】首页和系统页全部重写，移除官网模板，用干净简洁的自有代码\n• 【优化】所有图片直接走自有服务器，彻底移除第三方图床依赖\n• 【修复】微博图标显示不全问题\n• 【优化】页面加载速度大幅提升"
 }
