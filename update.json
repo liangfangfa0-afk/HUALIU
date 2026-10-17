@@ -1,6 +1,6 @@
 {
-  "versionCode": 158,
-  "versionName": "1.0.15.7",
-  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.15.7",
-  "changelog": "【v1.0.15.7 更新日志】\n• 【修复】版本号四处同步：设置页动态获取、更新日志补全v1.0.15.0~15.7、检查更新Toast显示版本名\n• 【修复】首页切回时自动触发HTML热更新拉取，确保服务器改完APP实时生效\n• 【修复】WebView清除缓存后再加载，杜绝旧页面残留"
+  "versionCode": 159,
+  "versionName": "1.0.15.8",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.15.8",
+  "changelog": "【v1.0.15.8 更新日志】\n• 【修复】HtmlUpdater每次启动强制清除版本记录，拉取服务器最新HTML，杜绝旧缓存残留\n• 【修复】设置页版本号动态获取，更新日志补全v1.0.15.0~15.8\n• 【修复】首页轮播图从自有服务器加载，不再依赖第三方图床"
 }
