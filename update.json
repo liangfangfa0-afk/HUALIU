@@ -1,6 +1,6 @@
 {
-  "versionCode": 166,
-  "versionName": "1.0.16.5",
-  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.16.5",
-  "changelog": "【v1.0.16.5 更新日志】\n• 【重构】彻底移除APP内HTML空壳，所有页面纯服务器热拉取\n• 【优化】首次启动直接从服务器拉取最新页面，不再显示旧版空壳\n• 【优化】加载失败显示友好提示，不再回退本地旧版\n• 【更新】LEINTOS系统页全新设计"
+  "versionCode": 167,
+  "versionName": "1.0.16.6",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.16.6",
+  "changelog": "【v1.0.16.6 更新日志】\n• 【修复】图片首次加载不显示的问题：不再每次更新清除图片缓存\n• 【优化】只有HTML内容实际更新时才重新加载页面，图片缓存保留\n• 【修复】图片加载失败需手动刷新才能显示"
 }
