@@ -1,6 +1,6 @@
 {
-  "versionCode": 167,
-  "versionName": "1.0.16.6",
-  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.16.6",
-  "changelog": "【v1.0.16.6 更新日志】\n• 【修复】图片首次加载不显示的问题：不再每次更新清除图片缓存\n• 【优化】只有HTML内容实际更新时才重新加载页面，图片缓存保留\n• 【修复】图片加载失败需手动刷新才能显示"
+  "versionCode": 168,
+  "versionName": "1.0.16.7",
+  "downloadUrl": "https://hualiu-auth-server-production.up.railway.app/api/app-download/1.0.16.7",
+  "changelog": "【v1.0.16.7 更新日志】\n• 【更新】全新APP图标：黑金质感HUALIU品牌标识"
 }
